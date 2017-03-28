@@ -1,0 +1,14 @@
+{
+ "name": "grats server",
+ "version": "0.0.1",
+ "description": "grats server on nodejs",
+ "author": "Maarten Verjans <maarten.verjans@gmail.com>",
+ "main": "main.js",
+ "scripts": {
+  "start": "node server.js"
+ },
+ "repository": {
+  "type": "git",
+  "url": "git@github.com:Majorem/gratsserver.git"
+ }
+}
